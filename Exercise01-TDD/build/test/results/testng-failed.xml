@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [IkmanLK]">
+  <test name="TestNG tests(failed)">
+    <classes>
+      <class name="ikmanlk.test.TestNgTestNGTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="testIkman"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- ikmanlk.test.TestNgTestNGTest -->
+    </classes>
+  </test> <!-- TestNG tests(failed) -->
+</suite> <!-- Failed suite [IkmanLK] -->
